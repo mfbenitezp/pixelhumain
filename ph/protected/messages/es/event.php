@@ -1,7 +1,6 @@
 <?php
 
 	return array(
-		"Invalid end-Date" => "Date de fin incorrect",
 		"EVENT" => "Evento",
 		"Event's informations" => "Información de los eventos",
 		"Event removed" => "Evento Removido",
