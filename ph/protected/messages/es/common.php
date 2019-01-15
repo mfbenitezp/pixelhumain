@@ -48,7 +48,7 @@ return array(
 	"UPDATE" => "ACTUALIZAR",
 	"DELETE" => "BORRAR",
 	"Unlink" => "Desvincular",
-	"You have already made this action" => "Ya haz hecho esta acción",
+	"You have already made this action" => "Ya haz hecho ésta acción",
 	"Clear"=>"Limpiar",
 
 	//MONTH
