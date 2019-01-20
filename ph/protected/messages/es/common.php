@@ -2,7 +2,7 @@
 
 return array(
 
-	//GLOBAL INTERFACE 
+	//GLOBAL INTERFACE
 	"Collapse"=>"Colapsar",
 	"Refresh"=>"Refrescar",
 	"Configurations"=>"Configuración",
@@ -94,12 +94,12 @@ return array(
 	"wrote a message on your wall" => "escriba un mensaje en su muro",
 	// FOOTER
 	"Work in Progress" => "Trabajo en curso",
-	
+
 	// Erreurs
 	"You have some form errors. Please check below." => "Usted tiene algunos errores en el formulario. Por favor verificar.",
 	"Something went wrong!" => "Algo fue mal!",
 	"Something went really bad : Invalid Content" => "Algo fue realmente mal: Contenido Invalido",
-	"Something went really bad : " => "Un error se ha producido:  ", 
+	"Something went really bad : " => "Un error se ha producido:  ",
 	"Uncorrect request" => "Solicitud incorrecta",
 	"Can not manage the type " => "No es posible manejar el tipo",
 	"The form has been validated." => "El formulario ha sido validado.",
@@ -148,7 +148,7 @@ return array(
 	"News added successfully!" => "News ajoutée avec succès!",
 	"Thank you ! We are dealing it as quickly as possible. If there is more than 5 report, the news will be hidden" => "Merci !  S&#146;il y a plus de 3 signalements, le contenu est automatiquement soumis à la modération collective",
 	"You already reported this news as abuse" => "Vous avez déjà signalé cette news comme abus",
-	"You are going to declare an abuse : please fill the reason" => "Vous êtes en train de signaler un contenu abusif. Merci d'en préciser la raison",	
+	"You are going to declare an abuse : please fill the reason" => "Vous êtes en train de signaler un contenu abusif. Merci d'en préciser la raison",
 	"Update publication" => "Modifier la publication",
 	"Report an abuse" => "Reporter au modérateur",
 	"You leave successfully this event" => "Vous avez quitté l'événement",
@@ -190,7 +190,7 @@ return array(
 	"is already contributor of" => "contribue déjà à",
 	"is already member of" => "est déjà membre de",
 	"is already admin of" => "est déjà admin de",
-	//"Remove your positive vote before" => "Enlever le vote positif avant", 
+	//"Remove your positive vote before" => "Enlever le vote positif avant",
 	"No more notifications for the moment" => "Vous n&#146;avez pas de notifications pour le moment",
 	//Confirm
 	"Are you sure you want to delete this news" => "Êtes-vous sûr de vouloir supprimer cette publication ?",
@@ -203,7 +203,7 @@ return array(
 	"Please Login First" => "Logguez vous",
 	"Save Processing"=> "Enregistrement en cours",
 	"Resize and crop your image to render a beautiful banner" => "Ajuster la taille et recadrer votre image pour avoir une jolie bannière",
-	"Submit" => "Publier", 
+	"Submit" => "Publier",
 	//DATA
 	"Your data has been saved" => "Vos données ont bien été enregistré.",
 	"Data saved" => "Donnée enregistrée.",
@@ -212,8 +212,8 @@ return array(
 	"Access denied" => "Accès refusé",
 	"Accept as admin" => "Accepter comme admin",
 	"Accept as member" => "Accepter comme membre",
-	"Accept as contributor" => "Accepter comme contributeur",	
-	"Wait for confirmation" => "En attente de confirmation", 
+	"Accept as contributor" => "Accepter comme contributeur",
+	"Wait for confirmation" => "En attente de confirmation",
 	"Add/Update roles"=> "Ajouter/Modifier les rôles",
 	//TYPES
 	"NGO" => "Asociacion",
@@ -249,7 +249,7 @@ return array(
     "workshop" => "Taller",
     "conference" => "Conferencia",
     "debate" => "Ddebate",
-	
+
 	//EMAILS
 	"New Organization created on " => "Nouvelle organisation créée sur ",
 	"New Event created on " => "Nouvel événement créé sur ",
@@ -257,95 +257,94 @@ return array(
 	"Confirm your account on " => "Confirmer votre compte sur ",
 
 	//Common label
-	"today" => "ajourd'hui",
-	"Name" => "Nom",
-	"Username" => "Nom d'utilisateur",
-	"Street Address" => "Rue",
-	"Address" => "Adresse",
-	"Postal Code" => "Code Postal",
-	"Country" => "Pays",
-	"Zone"=>"Zone",
-	"City" => "Ville",
-	"Phone Number" => "Téléphone",
+	"today" => "hoy",
+	"Name" => "Nombre",
+	"Username" => "Nombre del usuario",
+	"Street Address" => "Calle",
+	"Address" => "Dirección",
+	"Postal Code" => "Código postal",
+	"Country" => "País",
+	"Zone"=>"Zona",
+	"City" => "Cuidad",
+	"Phone Number" => "Teléfono",
 	"Fax" => "Fax",
-	"Phone" => "Fixe",
-	"Mobile" => "Portable",
-	
-	"Website URL" => "URL du site web",
-	"Description" => "Description",
-	"Short description" => "Description courte",
-	"Start" => "Début",
-	"End" => "Fin",
-	"Color" => "Couleur",
-	"Status" => "Statut",
-	"Birth date" => "Date de naissance",
-	"Interests" => "Centres d&#146;intérêt",
-	"Category" => "Categorie",
-	"Key Words" => "Mots Clés",
-	"Duration" => "Durée",
-	"Directory" => "Répertoire",
-	"Contributors" => "Contributeurs",
-	"contributor" => "contributeur",
-	"contributors" => "contributeurs",
-	"member" => "membre",
-	"members" => "membres",
-	"Members" => "Membres",
-	"attendee" => "participant",
-	"attendees" => "participants",
-	"Attendees" => "Participants",
-	"Guests" => "Invités",
-	"Guest" => "Invité",
-	"guests" => "invités",
-	"guest" => "invité",
-	"follower" => "abonné",
-	"followers" => "abonnés",
-	"Followers" => "Abonnés",
-	"Follow" => "Abonnement",
-	"follow" => "abonnement",
-	"follows" => "abonnements",
-	"Follows" => "Abonnements",
-	"Collections" => "Collections",
-	"Community" => "Communauté",
-	"COMMUNITY" => "COMMUNAUTÉ",
-	"General informations" => "Informations générales",
-	"General infos" => "Infos générales",
-	"Open edition" => "Edition libre",
-	"the name" => "le nom",
-	"the description" => "la description",
-	"the type" => "le type",
-	"the slug" => "le slug",
-	"the street" => "la rue",
-	"the city" => "la ville",
-	"the country" => "le pays",
-	"the duration of the event to all day" => "la durée de l'événement sur toute la journée",
-	"the start" => "le début",
-	"the end" => "la fin",
-	"the address" => "l'adresse",
-	"the position" => "la position",
-	"the short description" => "la description courte",
-	"the fax" => "le fax",
-	"the fixe" => "le numéro fixe",
-	"the mobile" => "le portable",
-	"the email" => "l'email",
-	"the website" => "le site web",
-	"the tags" => "les tags",
-	"the maturity" => "l'avancement",
-	"the licence" => "la licence",
-	"the main locality" => "l'adresse principale",
-	"Main locality" => "Adresse principale",
-	"Second locality"=>"Adresse secondaire",
-	"a second locality" => "une adresse secondaire",
-	"open data" => "l'open data",
-	"open edition" => "l'édition libre",
-	"town of" => "commune de",
-	"Access to all common information of" => "Accèdez au information de toute la commune de",
-	"empty"=>"vide",
-	"organizer" => "organisateur",
-	"Organized by" => "Organisé par",
-	"Planned on" => "Au programme de",
-	"Sort by role"=>"Trier par rôle",
-	"Roles"=> "Rôles",
-	"Role(s)"=>"Rôle(s)",
+	"Phone" => "Fijado",
+	"Mobile" => "Móvil",
+	"Website URL"	=>	"URL del sitio web",
+	"Description"	=>	"Descripción",
+	"Short description"	=>	"Breve descripción",
+	"Start"	=>	"Comenzando",
+	"End"	=>	"Fin",
+	"Color"	=>	"Color",
+	"Status"	=>	"Estado",
+	"Birth date"	=>	"Fecha de nacimiento",
+	"Interests"	=>	"Áreas de interés",
+	"Category"	=>	"Categoría",
+	"Key Words"	=>	"Palabras clave",
+	"Duration"	=>	"Duración",
+	"Directory"	=>	"Directorio",
+	"Contributors"	=>	"Contribuyentes",
+	"contributor"	=>	"contribuyente",
+	"contributors"	=>	"contribuyentes",
+	"member"	=>	"miembro",
+	"members"	=>	"miembros",
+	"Members"	=>	"Miembros",
+	"attendee"	=>	"participante",
+	"attendees"	=>	"participantes",
+	"Attendees"	=>	"Participantes",
+	"Guests"	=>	"Invitados",
+	"Guest"	=>	"Invitado",
+	"guests"	=>	"invitados",
+	"guest"	=>	"invitado",
+	"follower"	=>	"suscriptor",
+	"followers"	=>	"suscriptores",
+	"Followers"	=>	"Suscriptores",
+	"Follow"	=>	"Suscripción",
+	"follow"	=>	"suscripción",
+	"follows"	=>	"suscripciones",
+	"Follows"	=>	"Suscripciones",
+	"Collections"	=>	"Colecciones",
+	"Community"	=>	"Comunidad",
+	"COMMUNITY"	=>	"COMUNIDAD",
+	"General informations"	=>	"Información general",
+	"General infos"	=>	"Información general",
+	"Open edition"	=>	"Edición gratuita",
+	"the name"	=>	"El nombre",
+	"the description"	=>	"La descripción",
+	"the type"	=>	"El tipo".
+	"the slug"	=>	"La babosa".
+	"the street"	=>	"la calle",
+	"the city"	=>	"La ciudad",
+	"the country"	=>	"el país",
+	"the duration of the event to all day"	=>	"la duración del evento durante todo el día",
+	"the start"	=>	"el principio",
+	"the end"	=>	"el fin",
+	"the address"	=>	"La dirección",
+	"the position"	=>	"La posición",
+	"the short description"	=>	"la breve descripción",
+	"the fax"	=>	"El fax".
+	"the fixe"	=>	"El número fijo",
+	"the mobile"	=>	"El teléfono celular".
+	"the email"	=>	"El correo electrónico",
+	"the website"	=>	"El sitio web",
+	"the tags"	=>	"Las etiquetas".
+	"the maturity"	=>	"Avance",
+	"the licence"	=>	"La licencia".
+	"the main locality"	=>	"la dirección principal",
+	"Main locality"	=>	"Dirección principal",
+	"Second locality"	=>	"Dirección secundaria",
+	"a second locality"	=>	"una dirección secundaria",
+	"open data"	=>	"datos abiertos",
+	"open edition"	=>	"Edición gratuita",
+	"town of"	=>	"comuna de",
+	"Access to all common information of"	=>	"Información de acceso de todo el municipio de",
+	"empty"	=>	"vacío",
+	"organizer"	=>	"Organizador".
+	"Organized by"	=>	"Organizado por".
+	"Planned on"	=>	"En el programa de",
+	"Sort by role"	=>	"Ordenar por rol",
+	"Roles"	=>	"Roles",
+	"Role(s)"	=>	"Función(es)",
 	//Input title - Placeholder
 	"Search by name or email" => "Recherche par nom, email",
 	"Not find ? Click here."=> "Non trouvé ? Cliquez ici.",
@@ -357,12 +356,12 @@ return array(
 	"Enter tagsList" => "Entrer des tags",
 	"Add a role"=>"Ajouter un rôle",
 	//Color
-	"Green" => "Vert",
-	"Blue" => "bleu",
-	"Purple" => "Violet",
-	"Red" => "Rouge",
-	"Yellow" => "Jaune",
-	
+	"Green" => "Verde",
+	"Blue" => "Azul",
+	"Purple" => "Violeta",
+	"Red" => "Rojo",
+	"Yellow" => "Amarillo",
+
 	//Question
 	"Are you sure" => "Êtes-vous sûr",
 	"Are you sure you want to delete" => "Êtes-vous sûr de vouloir supprimer cet élément ?",
@@ -397,7 +396,7 @@ return array(
 	"All" => "Todo",
 	"Who" => "Qui",
 	"and" => "et",
-	
+
 	//Status
 	"waiting for validation" => "attente de validation",
 	"unregistred" => "non inscrit-e",
@@ -420,7 +419,7 @@ return array(
 	"Proposal"=>"Proposition",
 	"proposals"=>"propositions",
 	"My web page" => "Ma page web",
-	
+
 	"Persons" => "Citoyens",
 	"People" => "Citoyens",
 	"Citoyens" => "Citoyens",
@@ -430,8 +429,8 @@ return array(
 	"Organizations" => "Organizaciones",
 	"Projects" => "Proyectos",
 	"Events" => "Eventos",
-	"Points of interest" => "Points d'intérêts",
-	"points of interest" => "points d'intérêts",
+	"Points of interest" => "Puntos de interés",
+	"points of interest" => "puntos de interés",
 	"cities"=>"villes",
 	"Contact"=>"Contact",
 	"persons" => "citoyens",
@@ -566,9 +565,9 @@ return array(
 	"Create a governemental organization"=>"Créer un service public",
 	"Create a place"=>"Créer un lieu",
 	"Create a NGO"=>"Créer une association",
-	
-	
-	"Create a point of interest"=>"Créer un point d'intérêt",	
+
+
+	"Create a point of interest"=>"Créer un point d'intérêt",
 	"Create a new collection"=>"Créer une nouvelle collection",
 	"Create a new page"=>"Créer une nouvelle page",
 	"Edit slug"=>"Modifier votre adresse URL",
@@ -583,7 +582,7 @@ return array(
 	"is member of"=> "est membre de",
 	"has got"=>"a",
 	"contributes to"=> "contribue à",
-	"contribute"=> "contribuer", 
+	"contribute"=> "contribuer",
 	"have been created by"=>"créés par",
 	"created by"=> "créé par",
 	"page"=>"page",
@@ -624,7 +623,7 @@ return array(
 	"to the organization" => "à l'organisation",
 	"to the project" => "au projet",
 	"to the event" => "à l'événement",
-	
+
 	"PROJECT" => "PROJET",
 	"DIRECTORY " => "Répertoire",
 	"DIRECTORY of" => "Répertoire de",
@@ -655,7 +654,7 @@ return array(
 	"Follow this project" => "Suivre ce projet",
 	"Unfollow" => "Ne plus suivre",
 	"Cancel this link"=>"Annuler ce lien",
-	
+
 	"Add Something to your network" => "Ajouter quelque chose à votre réseau" ,
 	"Add"							=> "Ajouter",
 	"add"							=> "ajouter",
@@ -688,7 +687,7 @@ return array(
 	"Accept this person" => "Accepter ce citoyen",
 	"Accept this citoyen" => "Accepter ce citoyen",
 	"Add as admin" => "Ajouter en tant qu&#146;admin",
-	"Add a role"=>"Ajouter un rôle", 
+	"Add a role"=>"Ajouter un rôle",
 	"Add/Update roles"=>"Ajouter/Modifier les rôles",
 	"Delete this member"=>"Supprimer ce membre",
 	"Delete this contributor"=>"Supprimer ce contributeur",
@@ -747,10 +746,10 @@ return array(
 	"Read all news publicated by this project" 		=> "Toute l&#146;actualité du projet",
 	"Read all news publicated by this organization" => "Toute l&#146;actualité de cette organisation",
 	"Discover who contributes to this project" 		=> "Les contributeurs du projet",
-	
+
 	"Participants" 		=> "Participants",
 	"Participants list" => "Liste des participants",
-	
+
 	"Add a participant to this organization" => "Ajouter un participant",
 	"Add a member to this organization"=> "Ajouter un membre à cette organisation",
 	"Add a contributor to this project" => "Ajouter un contributeur à ce projet",
@@ -758,7 +757,7 @@ return array(
 	"Add members to this organization"=> "Ajouter des membres à cette organisation",
 	"Add contributors to this project" => "Ajouter des contributeurs à ce projet",
 	"Add attendees to this event" => "Ajouter des participants à cet évènement",
-	
+
 	"Add member" => "Ajouter un membre",
 	"Add members" => "Ajouter un membre",
 	"Add contributor" => "Ajouter un contributeur",
@@ -825,7 +824,7 @@ return array(
 	"Your comment"=>"Votre commentaire",
 	"Update your comment"=>"Modifier votre commentaire",
 	"Search what" => "Quoi",
-	"Search where" => "Où", 
+	"Search where" => "Où",
 
 	"MY DETAIL"			=> "MI PERFIL",
 	"NEWS"				=> "FIL D'ACTUALITÉ",
@@ -861,7 +860,7 @@ return array(
 	"LOCAL CONNECTED CITIZENS"	=> "CITOYENS",
 	"LOCAL EVENTS"				=> "EVENTOS",
 	"LOCAL PROJECTS"			=> "PROYECTOS",
-	
+
 	"ADD SOMETHING TO MY NETWORK" => "Ajouter à mon réseau",
 
 	"Organizations types" => "Type d'organisations",
@@ -888,7 +887,7 @@ return array(
 	"Add a proposal" => "Faire une proposition",
 	"Add an action" => "Ajouter une action",
 	"Invite someone" => "Invitar a alguien",
-	
+
 	"Home" => "Accueil",
 	"Back to" => "Revenir sur",
 	"Know more" => "En savoir +",
@@ -902,7 +901,7 @@ return array(
 	"Connect organizations you know, you like, you met, you want to follow" => "Communectez votre association, entreprise, groupe, que vous connaissez, que vous aimez, que vous venez de découvrir ou que vous voulez suivre",
 	"Create and Attend local events" => "Créer et partagez un événement local",
 	"Promote or contribute to local projects" => "Faites connaitre un projet local",
-	
+
 	"A person" => "Inviter</br>quelqu'un",
 	"An organization" => "Créer</br>une organisation",
 	"A project" => "Créer</br>un projet",
@@ -921,7 +920,7 @@ return array(
 	"Change password" => "Changer votre mot de passe",
 	"Download your profil" => "Télécharger votre profil",
 	"Account info" => "Infos générales",
-	
+
 	"No attendee for this event" => "Aucun participant pour cet événement",
 	"No member for this organization" => "Aucun membre inscrit dans cette organisation",
 	"No contributor for this project" => "Aucun contributeur sur ce projet",
@@ -947,11 +946,11 @@ return array(
 	"Results"=>"Résultats",
 	"result"=>"résultat",
 	"Extended search"=>"Recherche étendue",
-	"online"=>"actif",
-	"posted"=> "publié",
-	"Writen by"=>"Écrit par",
-	"shared by"=>"partagé-e(s) par",
-	"Link shared by"=>"Lien partagé par",
+	"online"=>"activo",
+	"posted"=> "publicado",
+	"Writen by"=>"Escrito por",
+	"shared by"=>"compartido/a(s) por",
+	"Link shared by"=>"Enlace compartido por",
 	"Add scope filters"=>"Ajouter des filtres géographiques",
 	"<span class='text-dark'>Searching </span>on"=>"<span class='text-dark'>Recherche </span>ciblée",
 	"searching on"=>"recherche ciblée",
@@ -980,46 +979,46 @@ return array(
 	"ADD DATA" => "Ajouter votre données",
 	"OPENAGENDA" => "OPEN AGENDA",
 	"CHECKGEOCODAGE" => "VERIFIER GEOCODAGE",
-	
-	"air" => "air",
-	"seed" => "graine",
-	"germ" => "germe",
-	"plant" => "plante",
-	"tree" => "arbre",
-	"forest" => "foret",
-	"country" => "pays",
-	"planet" => "planète",
-	"ago"=>"il y a",
-	"Right now"=>"En ce moment",
-	"Frequently Asked Questions" => "Réponses aux Questions Fréquentes",
-	"Crowdfunding : Build Together" => "Crowdfunding : Construire Ensemble",
-	"Terms of Use" => "Mentions Légales",
-	"Project Partners" => "Partenaires du projet",
 
-	"updatepublication" => "Modifier",
-	"deletepublication" => "Supprimer",
-	
+	"air" => "aire",
+	"seed" => "semilla",
+	"germ" => "germen",
+	"plant" => "planta",
+	"tree" => "árbol",
+	"forest" => "bosque",
+	"country" => "país",
+	"planet" => "planeta",
+	"ago"=>"hace",
+	"Right now"=>"En este momento",
+	"Frequently Asked Questions" => "Respuestas a preguntas frecuentes",
+	"Crowdfunding : Build Together" => "Crowdfunding : Construir juntos",
+	"Terms of Use" => "Notas legales",
+	"Project Partners" => "Socios del proyecto",
+
+	"updatepublication" => "Editar",
+	"deletepublication" => "Eliminar",
+
 	//Survey
 	'Add a proposal' => "Ajouter une proposition",
 	'All Surveys' => "Retour aux propositions",
 	'List of all Surveys'=>'Liste des propositions',
 	'Create a proposal for your community'=>'Créer une proposition pour votre communauté',
 	'Understanding surveys and proposals'=>'Comprendre les discussions et les propositions',
-	'Help' => 'Aide',
+	'Help' => 'Ayuda',
 
 	//SurveyAction
-	"voteUp" => "Pour",
-	"voteAbstain" => "Blanc",
-	"voteUnclear" => "Incompris",
-	"voteMoreInfo" => "Incomplet",
-	"voteDown" => "Contre",
-	"Created Successfully" => "Créer avec succés.",
-	"Quick access here" => "Accés rapide ici",
-	"go Back" => "revenir en arrière",
-	"Back" => "retour",
-	"Modify" => "Modifier",
-	"Modify Position"=>"Modifier la position",
-	"Edit Information"=>"Éditer les informations",
+	"voteUp" => "Para",
+	"voteAbstain" => "Blanco",
+	"voteUnclear" => "Malinterpretado",
+	"voteMoreInfo" => "Incompleto",
+	"voteDown" => "Contra",
+	"Created Successfully" => "Crear con éxito.",
+	"Quick access here" => "Acceso rápido aquí",
+	"go Back" => "volver atrás",
+	"Back" => "atrás",
+	"Modify" => "Editar",
+	"Modify Position"=>"Cambiar de posición",
+	"Edit Information"=>"Editar informacion",
 
 	"go to documentation Index" => "Retour vers accueil documentation",
 	"Next chapter" => "Suivant",
@@ -1186,7 +1185,7 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"Research a name or e-mail address..." => "Encuentra un nombre o dirección de correo electrónico...",
 
 	"Invitation  accept" => "Invitación aceptada",
-	
+
 	"Not interested by the invitation" => "No estás interesado en esta invitación.",
 
 	'Admin' => "Admin",
@@ -1213,12 +1212,12 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"Add contact"  => "Agregar contacto",
 
 	"The following attributs has been updated :" => "Los siguientes atributos han sido actualizados :",
-	
+
 	"name" => "nombre",
 	"type" => "tipo",
 	"allDay" => "todo el día",
 	"birthDate" => "fecha de nacimiento",
-	"startDate" => "fecha de inicio", 
+	"startDate" => "fecha de inicio",
 	"endDate" => "fecha de fin",
 	"tags" => "etiquetas",
 	"medias" => "medios de comunicación",
@@ -1310,7 +1309,7 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"The communexion has changed" => "La communexion ha cambiado",
 	"All the city" => "Toda la ciudad",
 	"Initialization of map" => "Iniciando el mapa",
-	
+
 	"co-finance" => "co-financiar",
 
 	"services" => "Servicios",
@@ -1318,7 +1317,7 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"products" => "Produtos",
 
 	"Shopping cart" => "Carrito de compras",
-	
+
 	"Checkout" => "Finalizar compra",
 	"Validate" => "Validar",
 	"Continue" => "Continuar",
@@ -1349,7 +1348,7 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"Freedom" => "Libertad",
 
 	"This request is too short !" => "Esta petición es muy corta !",
-	
+
 	"folder fee included and delivery tax not included" => "folder fee included and delivery tax not included",
 
 	"previous" => "anterior",
@@ -1369,7 +1368,7 @@ merci de renseigner votre code postal dans l'adresse de votre profil.",
 	"An account is already registered with this email"=>"Una cuenta ya ha sido registrada con este email",
 	"Open filtering by type"=>"Abrir filtrando por tipo",
 	"Open" => "Abrir",
-    
+
 
 	"The statistics shown correspond to the number of loadings of each url." => "Las estadísticas mostradas corresponden al número de visitas de cada URL",
 	"Each time a person accesses for example the page #agenda, #live, or #search, the number increases."=>"Cada vez que una persona entra por ejemplo a la página de #agenda, #noticias o #búsqueda, el número aumenta.",
