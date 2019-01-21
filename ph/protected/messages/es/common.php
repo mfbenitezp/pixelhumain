@@ -311,8 +311,8 @@ return array(
 	"Open edition"	=>	"Edición gratuita",
 	"the name"	=>	"El nombre",
 	"the description"	=>	"La descripción",
-	"the type"	=>	"El tipo".
-	"the slug"	=>	"La babosa".
+	"the type"	=>	"El tipo",
+	"the slug"	=>	"La babosa",
 	"the street"	=>	"la calle",
 	"the city"	=>	"La ciudad",
 	"the country"	=>	"el país",
@@ -322,14 +322,14 @@ return array(
 	"the address"	=>	"La dirección",
 	"the position"	=>	"La posición",
 	"the short description"	=>	"la breve descripción",
-	"the fax"	=>	"El fax".
+	"the fax"	=>	"El fax",
 	"the fixe"	=>	"El número fijo",
-	"the mobile"	=>	"El teléfono celular".
+	"the mobile"	=>	"El teléfono celular",
 	"the email"	=>	"El correo electrónico",
 	"the website"	=>	"El sitio web",
-	"the tags"	=>	"Las etiquetas".
+	"the tags"	=>	"Las etiquetas",
 	"the maturity"	=>	"Avance",
-	"the licence"	=>	"La licencia".
+	"the licence"	=>	"La licencia",
 	"the main locality"	=>	"la dirección principal",
 	"Main locality"	=>	"Dirección principal",
 	"Second locality"	=>	"Dirección secundaria",
@@ -339,8 +339,8 @@ return array(
 	"town of"	=>	"comuna de",
 	"Access to all common information of"	=>	"Información de acceso de todo el municipio de",
 	"empty"	=>	"vacío",
-	"organizer"	=>	"Organizador".
-	"Organized by"	=>	"Organizado por".
+	"organizer"	=>	"Organizador",
+	"Organized by"	=>	"Organizado por",
 	"Planned on"	=>	"En el programa de",
 	"Sort by role"	=>	"Ordenar por rol",
 	"Roles"	=>	"Roles",
@@ -999,7 +999,6 @@ return array(
 	"deletepublication" => "Eliminar",
 
 	//Survey
-<<<<<<< HEAD
 	'Add a proposal' => "Añadir una propuesta",
 	'All Surveys' => "Volver a las propuestas",
 	'List of all Surveys'=>'Listar las propuestas',
@@ -1102,110 +1101,6 @@ Por favor ingrese su código postal en la dirección de su perfil.",
 	"Quotes" => "Comillas",
 	"Quotation marks" => "Comillas",
 	"Nothing" => "Nada",
-=======
-	'Add a proposal' => "Ajouter une proposition",
-	'All Surveys' => "Retour aux propositions",
-	'List of all Surveys'=>'Liste des propositions',
-	'Create a proposal for your community'=>'Créer une proposition pour votre communauté',
-	'Understanding surveys and proposals'=>'Comprendre les discussions et les propositions',
-	'Help' => 'Ayuda',
-
-	//SurveyAction
-	"voteUp" => "Para",
-	"voteAbstain" => "Blanco",
-	"voteUnclear" => "Malinterpretado",
-	"voteMoreInfo" => "Incompleto",
-	"voteDown" => "Contra",
-	"Created Successfully" => "Crear con éxito.",
-	"Quick access here" => "Acceso rápido aquí",
-	"go Back" => "volver atrás",
-	"Back" => "atrás",
-	"Modify" => "Editar",
-	"Modify Position"=>"Cambiar de posición",
-	"Edit Information"=>"Editar informacion",
-
-	"go to documentation Index" => "Retour vers accueil documentation",
-	"Next chapter" => "Suivant",
-	"Previous chapter" => "Précédent",
-
-	"You are not connected to your city" => "Vous n'êtes pas communecté-e",
-	"To get quick access to information in your city, to filter and map view local content, please fill your postal code on your profile page." => "Pour obtenir un accès rapide à votre commune, et filtrer les résultats et la carte en fonction de celle-ci,
-merci de renseigner votre code postal dans l'adresse de votre profil.",
-
-
-	"QR Code" => "QR Code",
-	"Show the QRCode for " => "Voir le QR Code de ",
-	"Public" => "Public",
-	"Private" => "Privé",
-	"Mask" => "Masqué",
-
-	"My street address" => "Ma rue",
-	"My mail" => "Mon e-mail",
-	"My directory" => "Mon répertoire",
-	"My phone" => "Mon téléphone",
-	"Visible for everyone." => "Visible par tout le monde.",
-	"Visible for my contacts." => "Visible par mes contacts seulement.",
-	"Not visible." => "Non visible.",
-	"You propose your data in free access, to contribut for commons." => "Vous proposez vos données en accès libre, afin de contribuer au bien commun.",
-	"All users can participed / modified the informations." => "Tous les utilisateurs ont la possibilité de participer / modifier les informations.",
-	"Max price"=>"Prix max",
-	"Min price"=>"Prix min",
-	"Currency"=>"Devise",
-
-	"Create" => "Créer",
-	"Complete or correct the informations of" => "Compléter ou corriger les informations de",
-	"Why ?" => "Pourquoi ?",
-	"Connect to your city" => "Communectez-vous",
-	"Connected with"=>"Communecté-e avec",
-	"Unknown Postal Code" => "Code Postal introuvable",
-	"Update Locality" => "Modifier vos coordonnées",
-	"Remove Locality" => "Effacer vos coordonnées",
-	"Remove This Locality" => "Effacer cette adresse",
-	"Add Locality" => "Ajouter une adresse",
-	"Show map" => "Voir la carte",
-	"Unknown Locality" => "Adresse non renseignée",
-	"Parenthood" => "Parenté",
-
-	"Show map" => "Afficher sur la carte",
-	"Locality" => "Adresse",
-	"Localities" => "Adresses",
-	"Others localities" => "Adresses secondaires",
-	"Localitie(s)" => "Adresse(s)",
-	"Choose a country" => "Choisir un pays",
-	"Are you sure you want to delete the locality ?" => "Etes-vous sûr de vouloir supprimer cette adresse ?",
-	"Are you sure you want to delete the locality ? You can't vote anymore in the citizen council of your city." => "Etes-vous sûr de vouloir vous dé-communectez ?",
-
-	"Search a projects of your city." => "Rechercher les projets de votre commune.",
-	"Search a events of your city." => "Rechercher les événements de votre commune.",
-	"Search a citizens of your city." => "Rechercher les citoyens de votre commune.",
-	"Search a organizations of your city." => "Rechercher les organisations de votre commune.",
-
-	"Add a primary address" => "Ajouter une adresse principale",
-	"Add a secondary address" => "Ajouter une adresse secondaire",
-	"Add an address" => "Ajouter une adresse",
-	"Can not update the element : you are not authorized to update that element !" => "Impossible de mettre à jour cet élément : vous n'êtes pas autorisé !",
-
-	"I am in favor of this proposal" => "Je suis favorable à cette proposition",
-	"I think that this proposal is not complete" => "Je pense que cette proposition n'est pas complète",
-	"I have not reviews" => "Je n'ai pas d'avis",
-	"I don't understand, it miss informations" => "Je n'ai pas compris, il manque des informations",
-	"I am not in favor of this proposal" => "Je suis contre cette proposition",
-
-	"Action room"=>"Espace d'action",
-	"Choose" => "Choisir",
-	"Next step" => "Etape suivante",
-	"Previous step" => "Etape précédente",
-
-
-	"Link" => "Lien",
-	"Not link" => "Aucun lien",
-	"Semicolon"=>"Point virgule",
-	"Comma" => "Virgule",
-	"Space" => "Espace",
-	"Quotes" => "Quotes",
-	"Quotation marks" => "Guillemets",
-	"Nothing" => "Rien",
->>>>>>> 387902b9d5ce76d705e833c2adc0de3430d6a690
 
 	//Delete element section
 	"Disabled" => "Desactivado",
