@@ -57,10 +57,6 @@
 "the group"	=>	"el grupo",
 "the Group"	=>	"El Grupo",
 "the government organization"	=>	"la organización del gobierno"
-		//Delete organization
-
-
-		//TYPES
 
 	);
 ?>
