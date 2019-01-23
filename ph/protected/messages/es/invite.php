@@ -1,24 +1,24 @@
 <?php
 
 	return array(
-		"Search or invite your contacts" => "Rechercher ou inviter vos contacts",
-		"Search or invite members" => "Rechercher ou inviter des membres",
-		"Import a file" => "Importer un fichier",
-		"List of persons invited" => "Liste des personnes a invités",
-		"Add to the list" => "Ajouter à la liste",
-		"Files (CSV)" => "Fichier (CSV)",
-		"Custom message" => "Message personnalisé", 
-		"You must use a CSV format" => "Vous devez utiliser un format CSV",
-		"We were unable to read your file." => "Nous n'avons pas pu lire votre fichier.",
-		"Already in the list" => "Déjà dans la liste",
-		"My contacts" => "Mes contacts",
-		"This user is already in your contacts" => "Cet utilisateur est déjà dans vos contacts",
-		"A name, an e-mail..." => "Un nom, un e-mail ...",
-		"Please validate the current invites" => "Veuillez valider les invites en cours",
-		"This person is already on your contacts" => "Cette personne est déjà dans vos contacts",
-		"Write" => "Ecrire",
-		"Others" => "Autres",
-		"Check" => "Vérifier",
+		"Search or invite your contacts"	=>	"Busca o invita a tus contactos",
+"Search or invite members"	=>	"Buscar o invitar a miembros",
+"Import a file"	=>	"Importar un archivo",
+"List of persons invited"	=>	"Lista de invitados",
+"Add to the list"	=>	"Añadir a la lista",
+"Files (CSV)"	=>	"Archivos (CSV)",
+"Custom message"	=>	"Mensaje personalizado",
+"You must use a CSV format"	=>	"Debes usar un formato CSV",
+"We were unable to read your file."	=>	"No pudimos leer su expediente.",
+"Already in the list"	=>	"Ya está en la lista",
+"My contacts"	=>	"Mis contactos",
+"This user is already in your contacts"	=>	"Este usuario ya está en tus contactos",
+"A name, an e-mail..."	=>	"Un nombre, un e-mail...",
+"Please validate the current invites"	=>	"Por favor, valide las invitaciones actuales",
+"This person is already on your contacts"	=>	"Esta persona ya está en tus contactos",
+"Write"	=>	"Escribe",
+"Others"	=>	"Otros",
+"Check"	=>	"Cheque"
 	);
 
 ?>
