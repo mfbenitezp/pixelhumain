@@ -225,3 +225,9 @@ pip-log.txt
 dbconfig.php
 
 ph/protected/config/dbconfig\.exemple\.php
+
+#############
+## WebStorm
+#############
+
+.idea/
