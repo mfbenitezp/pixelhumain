@@ -40,6 +40,9 @@ return array(
 "Enter your phones"	=>	"Ingresen sus teléfonos",
 "Enter your mobiles"	=>	"Entren en sus móviles",
 "Enter your fax"	=>	"Ingresa tu fax",
+"Enter your phones"	=>	"Introduce tus números de teléfono fijo, sepáralos con una coma.",
+"Enter your mobiles"	=>	"Introduce tus números de teléfono móvil, sepáralos con una coma.",
+"Enter your fax"	=>	"Introduzca sus números de fax, sepárelos con una coma.",
 "Hello, \\nCome and meet me on that website!\\nAn email, your town and you are connected to your city!\\nYou can see everything that happens in your city and act for the commons."	=>	"Hola, ven y reúnete conmigo en esa página web! Un email, tu ciudad y tu estás conectado a tu ciudad! Puedes ver todo lo que pasa en tu ciudad y actuar por los comunes."
 
 );
