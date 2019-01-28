@@ -27,6 +27,7 @@ return array(
 "LOG IN"	=>	"LOG IN",
 "Don\'t have an account yet?"	=>	"¿Aún no tienes una cuenta?",
 "Create an account"	=>	"Crear una cuenta",
+"Create my <b>citizen</b> account" => "Crear mi cuenta <b>ciudadana</b>",
 "Forget password ?"	=>	"¿Olvidaste la contraseña?",
 "Enter your e-mail address below to get your password by email."	=>	"Ingrese su dirección de correo electrónico para obtener su contraseña por correo electrónico.",
 "Submit"	=>	"Enviar",
